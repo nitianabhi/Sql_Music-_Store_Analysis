@@ -13,3 +13,6 @@ This project  will teach us how to analyze the music playlist database. You can 
 
 ## Schema- Music Store Database
 <img width="710" height="574" alt="Image" src="https://github.com/user-attachments/assets/d2796e0c-55a5-46c1-b548-1c87c6e2da81" />
+
+
+[Music Store Analysis-Questions.pdf](https://github.com/user-attachments/files/21065459/Music.Store.Analysis-Questions.pdf)
